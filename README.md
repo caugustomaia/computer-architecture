@@ -16,3 +16,6 @@ To link the necessary libraries and generate the binary file, use:
 To run the program use:
 
 ``` ./final ```
+
+## microprogramming-project
+In this directory you will find a report. In this project we were given a data path of MIPS architecture and we were suppose to change the BEQ instruction to BNE instruction. So i did the report explaining how this could be done.
