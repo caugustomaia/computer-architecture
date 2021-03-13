@@ -7,12 +7,12 @@ In this directory you will find an assembly code. The project especification was
 #### Compiling the assembly code:
 To generate the object file, use:
 
-~~~ nasm -f elf64 final.asm
+``` nasm -f elf64 final.asm ```
 
 To link the necessary libraries and generate the binary file, use:
 
-``` gcc -no-pie final.o -o final
+``` gcc -no-pie final.o -o final ```
 
 To run the program use:
 
-~~~ ./final
+``` ./final ```
